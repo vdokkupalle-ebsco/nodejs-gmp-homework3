@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "qhzggastgwidcn",
+    "password": "9932cb51636a7f353dba3a422ea734cd214dc61947b38a10205d5c2b5dfb52c0",
+    "database": "d69c4bff44f2u1",
+    "host": "ec2-35-174-35-242.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
