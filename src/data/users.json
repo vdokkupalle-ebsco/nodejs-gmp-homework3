@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "login": "User1",
+      "password": "Password1",
+      "age": 25
+    },
+    {
+      "login": "User2",
+      "password": "Password2",
+      "age": 26
+    },
+    {
+      "login": "User3",
+      "password": "Password4",
+      "age": 20
+    },
+    {
+      "login": "User5",
+      "password": "Password5",
+      "age": 30
+    },
+    {
+      "login": "User6",
+      "password": "Password6",
+      "age": 32
+    }
+  ]
+}
